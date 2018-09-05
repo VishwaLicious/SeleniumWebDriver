@@ -2,31 +2,22 @@ package in.licious.test;
 
 import java.sql.SQLException;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.LogStatus;
 
-import in.licious.pom.CheckoutDelivery;
-import in.licious.pom.CheckoutPage;
 import in.licious.pom.ChickenPage;
-import in.licious.pom.DeliverySummaryPage;
-import in.licious.pom.FishandSeafoodPage;
 import in.licious.pom.HomePage;
 import in.licious.pom.NewAddressPage;
 import in.licious.pom.NewCheckoutPage;
 import in.licious.pom.NewDeliverySummaryPage;
 import in.licious.pom.NewLoginFlow;
 import in.licious.pom.NewPaymentPage;
-import in.licious.pom.PaymentPage;
 import in.licious.pom.RayzorpayPage;
-import in.licious.pom.SignInPage;
-import in.licious.pom.SignupPage;
 import in.licious.util.DataBaseCCC;
 import in.licious.util.Helper;
-import in.licious.util.ReadData;
 
 public class ChickenNetBanking extends BaseTest {
 

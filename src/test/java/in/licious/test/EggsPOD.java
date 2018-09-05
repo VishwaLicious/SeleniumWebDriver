@@ -16,9 +16,7 @@ import in.licious.pom.NewCheckoutPage;
 import in.licious.pom.NewDeliverySummaryPage;
 import in.licious.pom.NewLoginFlow;
 import in.licious.pom.NewPaymentPage;
-import in.licious.pom.RayzorpayPage;
 import in.licious.util.DataBaseCCC;
-import in.licious.util.DeliverySlot;
 import in.licious.util.Helper;
 
 public class EggsPOD extends BaseTest {
@@ -118,7 +116,7 @@ public class EggsPOD extends BaseTest {
 		System.out.println("Printing " + TxtBoxContent.getText());
 		Helper.customWait(2);
 		
-		if (TxtBoxContent.getText().equalsIgnoreCase("Today 120 MIN"))
+		if (TxtBoxContent.getText().equalsIgnoreCase("Today 3 min"))
 		{
 			System.out.println("Order Placing as Express Delivery");
 			newDeliverySummary.getProceedToPaymentBtn().click();	

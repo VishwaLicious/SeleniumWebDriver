@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="in.licious.test.ChickenNetBanking"/>
-      <class name="in.licious.test.ExoticNetBanking"/>
+      <!-- <class name="in.licious.test.ExoticNetBanking"/>
       <class name="in.licious.test.ChickenSavedCards"/>
       <class name="in.licious.test.MarinadesNetBanking"/>
       <class name="in.licious.test.WeekendTreatsCOD"/>
@@ -60,7 +60,7 @@
       <class name="in.licious.test.ColdCutsOtherWallets"/>
       <class name="in.licious.test.EggsNetBanking"/>
       <class name="in.licious.test.WeekendTreatsCreditAndDebitCards"/>
-      <class name="in.licious.test.ExoticOtherWallets"/>
+      <class name="in.licious.test.ExoticOtherWallets"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

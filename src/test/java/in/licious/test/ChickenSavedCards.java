@@ -15,7 +15,6 @@ import in.licious.pom.NewCheckoutPage;
 import in.licious.pom.NewDeliverySummaryPage;
 import in.licious.pom.NewLoginFlow;
 import in.licious.pom.NewPaymentPage;
-import in.licious.pom.RayzorpayPage;
 import in.licious.util.DataBaseCCC;
 import in.licious.util.Helper;
 

@@ -3,16 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="in.licious.test.FishandSeafoodPOD2">
+      <class name="in.licious.dataplanning.Compare_DB">
         <methods>
-          <include name="closeFramework"/>
-          <include name="tearDown"/>
-          <include name="initFramework"/>
-          <include name="setUp"/>
-          <include name="testfishandseafood"/>
-          <include name="initGlobalConstants"/>
+          <include name="compareData"/>
         </methods>
-      </class> <!-- in.licious.test.FishandSeafoodPOD2 -->
+      </class> <!-- in.licious.dataplanning.Compare_DB -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

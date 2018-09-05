@@ -6450,3 +6450,322 @@
 2018-07-13 12:16:28,598 - [in.licious.test.FishandSeafoodPOD2] - INFO - 5 
 2018-07-13 12:16:39,431 - [in.licious.test.FishandSeafoodPOD2] - INFO - chrome is launched 
 2018-07-13 12:17:49,018 - [in.licious.test.FishandSeafoodPOD2] - INFO - chrome is closed 
+2018-07-17 22:05:44,371 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-17 22:05:44,376 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-17 22:05:44,376 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-17 22:05:44,377 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-17 22:05:44,378 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-17 22:05:44,378 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-17 22:06:00,588 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-17 22:06:49,922 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-17 22:09:28,060 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-17 22:09:28,065 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-17 22:09:28,066 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-17 22:09:28,066 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-17 22:09:28,067 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-17 22:09:28,067 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-17 22:09:41,750 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-17 22:10:28,050 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-17 22:11:21,212 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-17 22:11:21,218 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-17 22:11:21,218 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-17 22:11:21,219 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-17 22:11:21,219 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-17 22:11:21,219 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-17 22:11:31,039 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-17 22:12:37,515 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-17 22:12:37,519 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-17 22:12:37,519 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-17 22:12:37,519 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-17 22:12:37,520 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-17 22:12:37,520 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-17 22:12:50,679 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-17 22:13:44,721 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-17 22:57:19,553 - [in.licious.test.FishandSeafoodCOD] - INFO - framework is initialised 
+2018-07-17 22:57:19,559 - [in.licious.test.FishandSeafoodCOD] - INFO - chrome 
+2018-07-17 22:57:19,559 - [in.licious.test.FishandSeafoodCOD] - INFO - http://web.licious.in 
+2018-07-17 22:57:19,560 - [in.licious.test.FishandSeafoodCOD] - INFO - 9880335493 
+2018-07-17 22:57:19,560 - [in.licious.test.FishandSeafoodCOD] - INFO - 123456 
+2018-07-17 22:57:19,560 - [in.licious.test.FishandSeafoodCOD] - INFO - 5 
+2018-07-17 22:57:29,275 - [in.licious.test.FishandSeafoodCOD] - INFO - chrome is launched 
+2018-07-17 22:58:41,465 - [in.licious.test.FishandSeafoodCOD] - INFO - chrome is closed 
+2018-07-23 17:57:13,913 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-23 17:57:13,933 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-23 17:57:13,933 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-23 17:57:13,934 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-23 17:57:13,935 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-23 17:57:13,935 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-23 17:57:46,308 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-23 17:58:18,338 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-23 18:00:02,095 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-23 18:00:02,101 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-23 18:00:02,102 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-23 18:00:02,103 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-23 18:00:02,104 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-23 18:00:02,105 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-23 18:00:30,933 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-23 18:01:09,751 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-23 18:01:54,297 - [in.licious.test.ChickenNetBanking] - INFO - framework is initialised 
+2018-07-23 18:01:54,302 - [in.licious.test.ChickenNetBanking] - INFO - chrome 
+2018-07-23 18:01:54,302 - [in.licious.test.ChickenNetBanking] - INFO - http://web.licious.in 
+2018-07-23 18:01:54,302 - [in.licious.test.ChickenNetBanking] - INFO - 9880335493 
+2018-07-23 18:01:54,303 - [in.licious.test.ChickenNetBanking] - INFO - 123456 
+2018-07-23 18:01:54,303 - [in.licious.test.ChickenNetBanking] - INFO - 5 
+2018-07-23 18:02:05,377 - [in.licious.test.ChickenNetBanking] - INFO - chrome is launched 
+2018-07-23 18:02:35,965 - [in.licious.test.ChickenNetBanking] - INFO - chrome is closed 
+2018-07-23 18:11:22,963 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:11:22,968 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:11:22,968 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:11:22,969 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:11:22,970 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:11:22,970 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:11:39,891 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:12:10,946 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:12:37,318 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:12:37,323 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:12:37,324 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:12:37,324 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:12:37,324 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:12:37,324 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:12:46,457 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:13:16,744 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:17:53,095 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:17:53,100 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:17:53,101 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:17:53,101 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:17:53,101 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:17:53,101 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:18:04,498 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:18:49,913 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:19:20,699 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:19:20,704 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:19:20,705 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:19:20,705 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:19:20,705 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:19:20,705 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:19:32,349 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:20:02,165 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:22:20,762 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:22:20,767 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:22:20,767 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:22:20,768 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:22:20,768 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:22:20,768 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:22:32,674 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:23:01,630 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:31:39,750 - [in.licious.test.PicklesPOD] - INFO - framework is initialised 
+2018-07-23 18:31:39,755 - [in.licious.test.PicklesPOD] - INFO - chrome 
+2018-07-23 18:31:39,755 - [in.licious.test.PicklesPOD] - INFO - http://web.licious.in 
+2018-07-23 18:31:39,756 - [in.licious.test.PicklesPOD] - INFO - 9880335493 
+2018-07-23 18:31:39,756 - [in.licious.test.PicklesPOD] - INFO - 123456 
+2018-07-23 18:31:39,756 - [in.licious.test.PicklesPOD] - INFO - 5 
+2018-07-23 18:31:51,399 - [in.licious.test.PicklesPOD] - INFO - chrome is launched 
+2018-07-23 18:32:21,618 - [in.licious.test.PicklesPOD] - INFO - chrome is closed 
+2018-07-23 18:33:30,854 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:33:30,859 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:33:30,859 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.info 
+2018-07-23 18:33:30,860 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:33:30,860 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:33:30,860 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:33:42,929 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:34:55,611 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:40:09,782 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:40:09,788 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:40:09,788 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.info 
+2018-07-23 18:40:09,789 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:40:09,789 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:40:09,789 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:40:38,522 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:40:38,527 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:40:38,527 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:40:38,528 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:40:38,528 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:40:38,528 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:40:48,331 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:41:19,624 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-23 18:42:22,694 - [in.licious.test.ChickenPOD] - INFO - framework is initialised 
+2018-07-23 18:42:22,700 - [in.licious.test.ChickenPOD] - INFO - chrome 
+2018-07-23 18:42:22,700 - [in.licious.test.ChickenPOD] - INFO - http://web.licious.in 
+2018-07-23 18:42:22,701 - [in.licious.test.ChickenPOD] - INFO - 9880335493 
+2018-07-23 18:42:22,701 - [in.licious.test.ChickenPOD] - INFO - 123456 
+2018-07-23 18:42:22,701 - [in.licious.test.ChickenPOD] - INFO - 5 
+2018-07-23 18:42:31,805 - [in.licious.test.ChickenPOD] - INFO - chrome is launched 
+2018-07-23 18:43:11,424 - [in.licious.test.ChickenPOD] - INFO - chrome is closed 
+2018-07-26 22:13:13,339 - [in.licious.test.FishandSeafoodNetBanking] - INFO - framework is initialised 
+2018-07-26 22:13:13,351 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome 
+2018-07-26 22:13:13,351 - [in.licious.test.FishandSeafoodNetBanking] - INFO - http://web.licious.in 
+2018-07-26 22:13:13,352 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 9880335493 
+2018-07-26 22:13:13,352 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 123456 
+2018-07-26 22:13:13,352 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 5 
+2018-07-26 22:14:17,921 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is launched 
+2018-07-26 22:14:54,427 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is closed 
+2018-08-02 12:04:01,636 - [in.licious.test.EggsCOD] - INFO - framework is initialised 
+2018-08-02 12:04:01,644 - [in.licious.test.EggsCOD] - INFO - chrome 
+2018-08-02 12:04:01,644 - [in.licious.test.EggsCOD] - INFO - http://web.licious.in 
+2018-08-02 12:04:01,645 - [in.licious.test.EggsCOD] - INFO - 9880335493 
+2018-08-02 12:04:01,645 - [in.licious.test.EggsCOD] - INFO - 123456 
+2018-08-02 12:04:01,645 - [in.licious.test.EggsCOD] - INFO - 5 
+2018-08-02 12:04:16,597 - [in.licious.test.EggsCOD] - INFO - chrome is launched 
+2018-08-02 12:05:33,203 - [in.licious.test.EggsCOD] - INFO - chrome is closed 
+2018-08-06 15:04:41,592 - [in.licious.test.FishandSeafoodNetBanking] - INFO - framework is initialised 
+2018-08-06 15:04:41,598 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome 
+2018-08-06 15:04:41,598 - [in.licious.test.FishandSeafoodNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:04:41,598 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 9880335493 
+2018-08-06 15:04:41,599 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 123456 
+2018-08-06 15:04:41,600 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 5 
+2018-08-06 15:05:01,130 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is launched 
+2018-08-06 15:06:13,792 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is closed 
+2018-08-06 15:10:10,037 - [in.licious.test.FishandSeafoodNetBanking] - INFO - framework is initialised 
+2018-08-06 15:10:10,043 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome 
+2018-08-06 15:10:10,043 - [in.licious.test.FishandSeafoodNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:10:10,046 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 9880335493 
+2018-08-06 15:10:10,047 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 123456 
+2018-08-06 15:10:10,047 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 5 
+2018-08-06 15:10:22,094 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is launched 
+2018-08-06 15:11:22,059 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is closed 
+2018-08-06 15:13:01,238 - [in.licious.test.EggsNetBanking] - INFO - framework is initialised 
+2018-08-06 15:13:01,245 - [in.licious.test.EggsNetBanking] - INFO - chrome 
+2018-08-06 15:13:01,246 - [in.licious.test.EggsNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:13:01,247 - [in.licious.test.EggsNetBanking] - INFO - 9880335493 
+2018-08-06 15:13:01,247 - [in.licious.test.EggsNetBanking] - INFO - 123456 
+2018-08-06 15:13:01,248 - [in.licious.test.EggsNetBanking] - INFO - 5 
+2018-08-06 15:13:11,787 - [in.licious.test.EggsNetBanking] - INFO - chrome is launched 
+2018-08-06 15:14:14,467 - [in.licious.test.EggsNetBanking] - INFO - chrome is closed 
+2018-08-06 15:15:50,049 - [in.licious.test.EggsNetBanking] - INFO - framework is initialised 
+2018-08-06 15:15:50,055 - [in.licious.test.EggsNetBanking] - INFO - chrome 
+2018-08-06 15:15:50,055 - [in.licious.test.EggsNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:15:50,056 - [in.licious.test.EggsNetBanking] - INFO - 9880335493 
+2018-08-06 15:15:50,056 - [in.licious.test.EggsNetBanking] - INFO - 123456 
+2018-08-06 15:15:50,056 - [in.licious.test.EggsNetBanking] - INFO - 5 
+2018-08-06 15:16:01,254 - [in.licious.test.EggsNetBanking] - INFO - chrome is launched 
+2018-08-06 15:16:58,880 - [in.licious.test.EggsNetBanking] - INFO - chrome is closed 
+2018-08-06 15:18:38,283 - [in.licious.test.EggsNetBanking] - INFO - framework is initialised 
+2018-08-06 15:18:38,301 - [in.licious.test.EggsNetBanking] - INFO - chrome 
+2018-08-06 15:18:38,301 - [in.licious.test.EggsNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:18:38,302 - [in.licious.test.EggsNetBanking] - INFO - 9880335493 
+2018-08-06 15:18:38,302 - [in.licious.test.EggsNetBanking] - INFO - 123456 
+2018-08-06 15:18:38,302 - [in.licious.test.EggsNetBanking] - INFO - 5 
+2018-08-06 15:18:48,131 - [in.licious.test.EggsNetBanking] - INFO - chrome is launched 
+2018-08-06 15:19:11,122 - [in.licious.test.EggsNetBanking] - INFO - chrome is closed 
+2018-08-06 15:30:00,667 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - framework is initialised 
+2018-08-06 15:30:00,673 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome 
+2018-08-06 15:30:00,673 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - http://web.licious.in 
+2018-08-06 15:30:00,673 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 9880335493 
+2018-08-06 15:30:00,673 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 123456 
+2018-08-06 15:30:00,673 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 5 
+2018-08-06 15:30:11,069 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome is launched 
+2018-08-06 15:31:34,706 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome is closed 
+2018-08-06 15:33:21,611 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - framework is initialised 
+2018-08-06 15:33:21,616 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome 
+2018-08-06 15:33:21,616 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - http://web.licious.in 
+2018-08-06 15:33:21,616 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 9880335493 
+2018-08-06 15:33:21,617 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 123456 
+2018-08-06 15:33:21,617 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - 5 
+2018-08-06 15:33:33,118 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome is launched 
+2018-08-06 15:34:03,262 - [in.licious.test.FishandSeafoodCreditAndDebitCards] - INFO - chrome is closed 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - framework is initialised 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - chrome 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - http://web.licious.in 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - 9880335493 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - 123456 
+2018-08-06 15:34:57,002 - [in.licious.test.EggsNetBanking] - INFO - 5 
+2018-08-06 15:35:08,448 - [in.licious.test.EggsNetBanking] - INFO - chrome is launched 
+2018-08-06 15:36:06,871 - [in.licious.test.EggsNetBanking] - INFO - chrome is closed 
+2018-08-06 20:10:50,369 - [in.licious.test.EggsPOD] - INFO - framework is initialised 
+2018-08-06 20:10:50,378 - [in.licious.test.EggsPOD] - INFO - chrome 
+2018-08-06 20:10:50,378 - [in.licious.test.EggsPOD] - INFO - http://web.licious.in 
+2018-08-06 20:10:50,379 - [in.licious.test.EggsPOD] - INFO - 9880335493 
+2018-08-06 20:10:50,379 - [in.licious.test.EggsPOD] - INFO - 123456 
+2018-08-06 20:10:50,380 - [in.licious.test.EggsPOD] - INFO - 5 
+2018-08-06 20:11:01,664 - [in.licious.test.EggsPOD] - INFO - chrome is launched 
+2018-08-06 20:12:07,805 - [in.licious.test.EggsPOD] - INFO - chrome is closed 
+2018-08-06 20:15:31,609 - [in.licious.test.EggsPOD] - INFO - framework is initialised 
+2018-08-06 20:15:31,614 - [in.licious.test.EggsPOD] - INFO - chrome 
+2018-08-06 20:15:31,615 - [in.licious.test.EggsPOD] - INFO - http://web.licious.in 
+2018-08-06 20:15:31,615 - [in.licious.test.EggsPOD] - INFO - 9880335493 
+2018-08-06 20:15:31,616 - [in.licious.test.EggsPOD] - INFO - 123456 
+2018-08-06 20:15:31,616 - [in.licious.test.EggsPOD] - INFO - 5 
+2018-08-06 20:15:43,211 - [in.licious.test.EggsPOD] - INFO - chrome is launched 
+2018-08-06 20:16:58,307 - [in.licious.test.EggsPOD] - INFO - chrome is closed 
+2018-08-06 20:17:05,587 - [in.licious.test.EggsPOD] - INFO - framework is initialised 
+2018-08-06 20:17:05,592 - [in.licious.test.EggsPOD] - INFO - chrome 
+2018-08-06 20:17:05,593 - [in.licious.test.EggsPOD] - INFO - http://web.licious.in 
+2018-08-06 20:17:05,593 - [in.licious.test.EggsPOD] - INFO - 9880335493 
+2018-08-06 20:17:05,594 - [in.licious.test.EggsPOD] - INFO - 123456 
+2018-08-06 20:17:05,594 - [in.licious.test.EggsPOD] - INFO - 5 
+2018-08-06 20:17:15,919 - [in.licious.test.EggsPOD] - INFO - chrome is launched 
+2018-08-06 20:18:27,127 - [in.licious.test.EggsPOD] - INFO - chrome is closed 
+2018-08-06 20:19:31,144 - [in.licious.test.Chicken] - INFO - framework is initialised 
+2018-08-06 20:19:31,149 - [in.licious.test.Chicken] - INFO - chrome 
+2018-08-06 20:19:31,149 - [in.licious.test.Chicken] - INFO - http://web.licious.in 
+2018-08-06 20:19:31,149 - [in.licious.test.Chicken] - INFO - 9880335493 
+2018-08-06 20:19:31,150 - [in.licious.test.Chicken] - INFO - 123456 
+2018-08-06 20:19:31,151 - [in.licious.test.Chicken] - INFO - 5 
+2018-08-06 20:19:40,875 - [in.licious.test.Chicken] - INFO - chrome is launched 
+2018-08-06 20:20:45,788 - [in.licious.test.Chicken] - INFO - chrome is closed 
+2018-08-07 13:10:22,667 - [in.licious.test.FishandSeafoodNetBanking] - INFO - framework is initialised 
+2018-08-07 13:10:22,672 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome 
+2018-08-07 13:10:22,672 - [in.licious.test.FishandSeafoodNetBanking] - INFO - http://web.licious.in 
+2018-08-07 13:10:22,673 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 9880335493 
+2018-08-07 13:10:22,673 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 123456 
+2018-08-07 13:10:22,673 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 5 
+2018-08-07 13:10:33,609 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is launched 
+2018-08-07 13:11:40,329 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is closed 
+2018-08-07 15:38:22,743 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - framework is initialised 
+2018-08-07 15:38:22,748 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome 
+2018-08-07 15:38:22,749 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - http://web.licious.in 
+2018-08-07 15:38:22,750 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 9880335493 
+2018-08-07 15:38:22,750 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 123456 
+2018-08-07 15:38:22,751 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 5 
+2018-08-07 15:38:39,447 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 15:39:04,513 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-07 18:08:06,886 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - framework is initialised 
+2018-08-07 18:08:06,892 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome 
+2018-08-07 18:08:06,892 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - http://web.licious.in 
+2018-08-07 18:08:06,893 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 9880335493 
+2018-08-07 18:08:06,893 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 123456 
+2018-08-07 18:08:06,893 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 5 
+2018-08-07 18:08:24,307 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 18:08:56,756 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-07 18:12:14,538 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - framework is initialised 
+2018-08-07 18:12:14,542 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome 
+2018-08-07 18:12:14,543 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - http://web.licious.in 
+2018-08-07 18:12:14,544 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 9880335493 
+2018-08-07 18:12:14,544 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 123456 
+2018-08-07 18:12:14,545 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 5 
+2018-08-07 18:12:24,888 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 18:12:55,166 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-07 18:13:06,211 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 18:13:38,075 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-07 18:28:23,059 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - framework is initialised 
+2018-08-07 18:28:23,064 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome 
+2018-08-07 18:28:23,064 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - http://web.licious.in 
+2018-08-07 18:28:23,065 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 9880335493 
+2018-08-07 18:28:23,065 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 123456 
+2018-08-07 18:28:23,065 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 5 
+2018-08-07 18:28:35,773 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 18:29:05,386 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-07 18:29:15,645 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is launched 
+2018-08-07 18:29:50,908 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome is closed 
+2018-08-08 17:39:01,181 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - framework is initialised 
+2018-08-08 17:39:01,186 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - chrome 
+2018-08-08 17:39:01,186 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - http://web.licious.in 
+2018-08-08 17:39:01,187 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 9880335493 
+2018-08-08 17:39:01,187 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 123456 
+2018-08-08 17:39:01,187 - [in.licious.test.NewLoginFlowRegressionScript] - INFO - 5 
+2018-08-14 16:49:51,150 - [in.licious.test.ExoticPOD] - INFO - framework is initialised 
+2018-08-14 16:49:51,159 - [in.licious.test.ExoticPOD] - INFO - chrome 
+2018-08-14 16:49:51,160 - [in.licious.test.ExoticPOD] - INFO - http://web.licious.in 
+2018-08-14 16:49:51,163 - [in.licious.test.ExoticPOD] - INFO - 9880335493 
+2018-08-14 16:49:51,168 - [in.licious.test.ExoticPOD] - INFO - 123456 
+2018-08-14 16:49:51,168 - [in.licious.test.ExoticPOD] - INFO - 5 
+2018-08-14 16:50:08,495 - [in.licious.test.ExoticPOD] - INFO - chrome is launched 
+2018-08-14 16:50:46,158 - [in.licious.test.ExoticPOD] - INFO - chrome is closed 
+2018-08-17 11:35:02,541 - [in.licious.test.FishandSeafoodNetBanking] - INFO - framework is initialised 
+2018-08-17 11:35:02,547 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome 
+2018-08-17 11:35:02,547 - [in.licious.test.FishandSeafoodNetBanking] - INFO - http://web.licious.in 
+2018-08-17 11:35:02,551 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 9880335493 
+2018-08-17 11:35:02,551 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 123456 
+2018-08-17 11:35:02,551 - [in.licious.test.FishandSeafoodNetBanking] - INFO - 5 
+2018-08-17 11:35:32,630 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is launched 
+2018-08-17 11:36:33,676 - [in.licious.test.FishandSeafoodNetBanking] - INFO - chrome is closed 

@@ -32,6 +32,12 @@ public class NewLoginFlow extends BasePage{
 	@FindBy(xpath="//button[@class='btns password-login enabled']")
 	private WebElement passwordloginBtn;
 	
+	// Facebook Login elements
+	@FindBy(xpath="//span[@class='fb-login']")
+	private WebElement facebookloginBtn;
+	
+	
+	
 	public NewLoginFlow(WebDriver driver){
 		super(driver);
 		PageFactory.initElements(driver, this);
@@ -68,6 +74,12 @@ public class NewLoginFlow extends BasePage{
 	public WebElement getpasswordloginBtn(){
 		return passwordloginBtn;
 	}
+	
+	
+	public WebElement getfacebookloginBtn(){
+		return facebookloginBtn;
+	}
+	
 	
 	@FindBy(xpath="//div[@class='minimize']")
 	private WebElement subscribe;

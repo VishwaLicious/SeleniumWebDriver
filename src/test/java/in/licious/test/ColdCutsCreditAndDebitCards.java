@@ -10,7 +10,6 @@ import org.testng.annotations.Test;
 import com.relevantcodes.extentreports.LogStatus;
 
 import in.licious.pom.ColdCutsPage;
-import in.licious.pom.FishandSeafoodPage;
 import in.licious.pom.HomePage;
 import in.licious.pom.NewAddressPage;
 import in.licious.pom.NewCheckoutPage;
@@ -19,7 +18,6 @@ import in.licious.pom.NewLoginFlow;
 import in.licious.pom.NewPaymentPage;
 import in.licious.pom.RayzorpayPage;
 import in.licious.util.DataBaseCCC;
-import in.licious.util.DeliverySlot;
 import in.licious.util.Helper;
 
 public class ColdCutsCreditAndDebitCards extends BaseTest {
