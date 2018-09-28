@@ -33,7 +33,9 @@ public class ReadData {
 		try {
 			fis = new FileInputStream(excelFilePath);
 			if(rowNumber>0){
-				value=WorkbookFactory.create(fis).getSheet(excelSheetName).getRow(rowNumber).getCell(columnNumber).toString();
+				//value=WorkbookFactory.create(fis).getSheet(excelSheetName).getRow(rowNumber).getCell(columnNumber).toString();
+				//The above of line code was converting yyyy-mm-dd to dd-mon-yyyy hence using below line of code
+				value=WorkbookFactory.create(fis).getSheet(excelSheetName).getRow(rowNumber).getCell(columnNumber).getStringCellValue();
 			}
 			else{
 				throw new RuntimeException("rowNumber should be greater than one");
